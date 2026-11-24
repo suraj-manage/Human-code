@@ -1,0 +1,7 @@
+#per desktop setup files
+node_modules
+dist
+
+#keys
+.env
+env.env
