@@ -1,0 +1,11 @@
+[dark-theme="dark"]{
+  --color: #242424;
+
+  --bg-color: linear-gradient(
+    180deg,
+    #171717 0%,
+    #242424 50%,
+    #353535 100%
+  );
+
+}

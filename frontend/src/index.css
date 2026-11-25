@@ -1,0 +1,18 @@
+@import "./theme/light.css";
+@import "./theme/dark.css";
+
+*{
+    box-sizing:border-box;
+}
+html,
+body,
+#root{
+    min-height:100%;
+    margin:0;
+}
+
+body{
+    background: var(--bg-color);
+    color: var(--color);
+    transition: background 0.3s ease, color 0.3s ease;
+}
