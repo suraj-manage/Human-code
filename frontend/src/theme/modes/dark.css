@@ -1,11 +1,22 @@
-[dark-theme="dark"]{
-  --color: #242424;
+[dark-theme="dark"] {
+    --color: #F5F5F7;
+    --color-secondary: #9A9AA1;
+    --bg-color: #0E0E10;
 
-  --bg-color: linear-gradient(
-    180deg,
-    #171717 0%,
-    #242424 50%,
-    #353535 100%
-  );
+    --btn-color-primary: #FF7A68;
+    --btn-color-secondary: #33201D;
+    --btn-disabled: #3A3A3F;
+    --btn-border: #2A2A2E;
 
+    --card-bg: #1A1A1D;
+    --card-border: #2A2A2E;
+
+    --input-bg: #1A1A1D;
+    --input-color: #F5F5F7;
+    --input-border: #2A2A2E;
+    --input-placeholder: #6B6B72;
+
+    --shadow: 0 8px 28px rgba(0, 0, 0, 0.5);
+    --hover-color: #232327;
+    --accent-color: #FF7A68;
 }

@@ -1,9 +1,22 @@
-:root{
-    --color: #e8dcdc;
-    --bg-color: linear-gradiant(
-        180deg,
-        #d8caca 0%,
-        #e8dcdc 50%,
-        #f7f2f2 100%,
-    );
+:root {
+    --color: #1D1D1F;
+    --color-secondary: #6E6E73;
+    --bg-color: #F5F5F7;
+
+    --btn-color-primary: #EE5A47;
+    --btn-color-secondary: #FFD9D3;
+    --btn-disabled: #D2D2D7;
+    --btn-border: #E8E8ED;
+
+    --card-bg: #FFFFFF;
+    --card-border: #E8E8ED;
+
+    --input-bg: #FFFFFF;
+    --input-color: #1D1D1F;
+    --input-border: #E8E8ED;
+    --input-placeholder: #A1A1A8;
+
+    --shadow: 0 8px 26px rgba(29, 29, 31, 0.06);
+    --hover-color: #EDEDF1;
+    --accent-color: #EE5A47;
 }
